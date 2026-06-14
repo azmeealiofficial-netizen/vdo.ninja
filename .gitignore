@@ -10,3 +10,10 @@ cf/
 wrangler.toml
 package.json
 docs.md
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
